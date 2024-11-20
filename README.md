@@ -57,7 +57,7 @@ Usage
 # Clone the repository:
 bash
 Copy code
-git clone https://github.com/username/risk-analytics-banking.git  
+git clone https://github.com/Samaamrr/risk-analytics-banking.git  
 Navigate to the project directory:
 bash
 Copy code
